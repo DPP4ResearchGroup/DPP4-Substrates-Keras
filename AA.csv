@@ -1,0 +1,22 @@
+Common Name	Abbreviation	One Letter Abbrev	Polarity	Charges on R group	R group Hydrophobicity	Molar Mass
+glycine	gly	G	nonpolar	Neutral	Hydrophobic	75
+alanine	ala	A	nonpolar	Neutral	Hydrophobic	89
+valine	val	V	nonpolar	Neutral	Hydrophobic	117
+leucine	leu	L	nonpolar	Neutral	Hydrophobic	131
+isoleucine	ile	I	nonpolar	Neutral	Hydrophobic	131
+phenylalanine	phe	F	nonpolar	Neutral	Hydrophobic	165
+tryptophan	trp	W	nonpolar	Neutral	Amphipathic	204
+methionine	met	M	nonpolar	Neutral	Amphipathic	149
+proline	pro	P	nonpolar	Neutral	Hydrophobic	115
+serine	ser	S	Yes	Neutral	Hydrophilic	105
+threonine	thr	T	Yes	Neutral	Hydrophilic	119
+cysteine	cys	C	Yes	Neutral	Hydrophilic	121
+tyrosine	tyr	Y	Yes	Neutral	Amphipathic	181
+asparagine	asn	N	Yes	Neutral	Hydrophilic	132
+glutamine	gln	Q	Yes	Neutral	Hydrophilic	146
+aspartic acid	asp	D	Yes	Negative	Hydrophilic	132
+glutamic acid	glu	E	Yes	Negative	Hydrophilic	146
+histidine	his	H	Yes	Positive	Hydrophilic	155
+lysine	lys	K	Yes	Positive	Amphipathic	147
+arginine	arg	R	Yes	Positive	Hydrophilic	175
+						
